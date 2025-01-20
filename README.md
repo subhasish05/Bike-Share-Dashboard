@@ -22,6 +22,9 @@ Added calculated columns for revenue and profit.
 
 **Data Analysis and Visualization:**
 Imported the processed data into Power BI.
+
+![image](https://github.com/user-attachments/assets/09d79e9a-f571-4d51-a4fe-bd016b2e2f23)
+
 Created visualizations for hourly revenue, seasonal trends, and demographic insights.
 Designed a dashboard to deliver actionable insights with aesthetics in mind.
 
